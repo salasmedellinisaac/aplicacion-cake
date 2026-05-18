@@ -1,0 +1,174 @@
+2026-04-14 14:33:29 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 18
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 18
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-14 14:33:29 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 19
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 19
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-14 14:33:29 warning: The connection is going to be closed but there is an active transaction.
+2026-04-15 14:28:43 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 18
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 18
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-15 14:28:43 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 19
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 19
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-15 14:28:43 warning: The connection is going to be closed but there is an active transaction.
+2026-04-15 15:00:50 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 18
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 18
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-15 15:00:50 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 19
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 19
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-15 15:00:50 warning: The connection is going to be closed but there is an active transaction.
+2026-04-21 14:30:25 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 18
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 18
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-21 14:30:25 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 19
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 19
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-21 14:30:25 warning: The connection is going to be closed but there is an active transaction.
+2026-04-21 14:30:52 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 18
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 18
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-21 14:30:52 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 19
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 19
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-21 14:30:52 warning: The connection is going to be closed but there is an active transaction.
+2026-04-21 14:30:55 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 18
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 18
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-21 14:30:55 warning: Undefined variable $table in C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php on line 19
+Trace:
+Cake\Error\ErrorTrap->handleError() C:\Users\isaac\my_app\config\Migrations\20260414142632_CreateArticles.php, line 19
+CreateArticles->change() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Environment.php, line 119
+Migrations\Migration\Environment->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 449
+Migrations\Migration\Manager->executeMigration() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Migration\Manager.php, line 420
+Migrations\Migration\Manager->migrate() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 170
+Migrations\Command\MigrateCommand->executeMigrations() C:\Users\isaac\my_app\vendor\cakephp\migrations\src\Command\MigrateCommand.php, line 111
+Migrations\Command\MigrateCommand->execute() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\BaseCommand.php, line 258
+Cake\Console\BaseCommand->run() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 375
+Cake\Console\CommandRunner->runCommand() C:\Users\isaac\my_app\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 193
+Cake\Console\CommandRunner->run() C:\Users\isaac\my_app\bin\cake.php, line 10
+[main]
+
+2026-04-21 14:30:55 warning: The connection is going to be closed but there is an active transaction.
